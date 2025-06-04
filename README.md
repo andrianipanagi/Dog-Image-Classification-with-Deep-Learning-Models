@@ -56,3 +56,5 @@ Model predictions include the top-1 and top-5 most probable dog breeds with visu
 
 Did an error analysis for the incorrect predictions of Xception V3 which was the best model with an accuracy of 88% on the test set. The image below shows the incorrect predictions of the model.
 
+![Error Analysis on XceptionV3](error_analysis.png)
+
